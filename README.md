@@ -9,7 +9,7 @@ I'm a public health and social development professional with experience working 
 - 📊 Digital Health Implementation & Monitoring  
 - 🧰 Health MIS, Simple App, NCD Portals, Telemedicine  
 - 📚 Training, Capacity Building & User Onboarding  
-- 🤝 Equity, Inclusion & Grassroots Impact through Digital Initiatives
+- 🤝 Equity, Inclusion & Grassroots Impact through digital Initiatives
 - ✍️ Data-driven Strategy, Policy Development & Reporting
 
   
