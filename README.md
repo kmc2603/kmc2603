@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kumar Mangalam Chowdhury
+# 👋 Hi, I'm Kumar Manglam Chowdhury
 
 
 🌱 **Public Health meets Technology**  
