@@ -17,6 +17,7 @@ I'm a public health and social development professional with experience working 
 - 📈 Created Performance Review Dashboards for Program Evaluation 
 
 🧠 **What Drives Me**
+
 I care deeply about reducing health disparities and building digital bridges for communities that need them most. I believe good code and good care aren’t that different—they both require listening, empathy, and thoughtful execution.
 
 📫 **Let’s Connect!**  
