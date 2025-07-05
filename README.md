@@ -3,6 +3,11 @@
 🌱 **Public Health meets Technology**  
 I'm a public health and social development professional with experience working across government systems, NGOs, and underserved communities. My work blends health systems thinking with digital tools—building solutions that are human-first, data-informed, and built to last.
 
+<!-- 🎬 Health-Tech Giphy Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V6ZGRsZ2t2aW5sOGpkaDFiZGdyZmR3ZnJ5d3p1YWtkOWR4Zjl0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif" width="480" height="270" alt="Digital Health Animation"/>
+</p>
+
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
 - 🧠 Behavior Change Communication (IEC/BCC)  
