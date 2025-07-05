@@ -3,7 +3,7 @@
 
 🌱 **Public Health meets Technology**  
 I'm a public health and social development professional with experience working across government systems, NGOs, and underserved communities. My work blends health systems thinking with digital tools—building solutions that are human-first, data-informed, and built to last.
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
