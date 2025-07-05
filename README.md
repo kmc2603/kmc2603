@@ -7,7 +7,7 @@ I'm a public health and social development professional with experience working 
 
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
-- 🧰 Health MIS, Simple App, NCD Portals, eSanjeevani  
+- 🧰 Health MIS, Simple App, NCD Portals, Telemedicine  
 - 📚 Training, Capacity Building & User Onboarding  
 - 🤝 Equity, Inclusion & Grassroots Impact through Digital Initiatives
 - ✍️ Data-driven Strategy, Policy Development & Reporting
