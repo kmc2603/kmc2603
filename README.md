@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Kumar Mangalam Chowdhury
 
+
 🌱 **Public Health meets Technology**  
 I'm a public health and social development professional with experience working across government systems, NGOs, and underserved communities. My work blends health systems thinking with digital tools—building solutions that are human-first, data-informed, and built to last.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
@@ -9,6 +11,8 @@ I'm a public health and social development professional with experience working 
 - 📚 Training, Capacity Building & User Onboarding  
 - 🤝 Equity, Inclusion & Grassroots Impact through Digital Initiatives
 - ✍️ Data-driven Strategy, Policy Development & Reporting
+
+  
 
 📌 **Notable Work**
 - 📈 Achieved 85% follow-up rate in IHCI project with 20,000+ annual registrations via Simple App  
