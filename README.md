@@ -5,7 +5,7 @@ I'm a public health and social development professional with experience working 
 
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
-- 🧠 Behavior Change Communication (IEC/BCC)  
+- 🧠 Behavior Change Communication
 - 🧰 Health MIS, Simple App, NCD Portals, eSanjeevani  
 - 📚 Training, Capacity Building & User Onboarding  
 - 🤝 Equity, Inclusion & Grassroots Impact  
