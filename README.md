@@ -3,12 +3,6 @@
 🌱 **Public Health meets Technology**  
 I'm a public health and social development professional with experience working across government systems, NGOs, and underserved communities. My work blends health systems thinking with digital tools—building solutions that are human-first, data-informed, and built to last.
 
-<!-- 👋 Small Subtle Digital-Themed GIF -->
-<p align="right">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Hi Digital Wave GIF"/>
-</p>
-
-
 🚀 **Areas I’m Passionate About**  
 - 📊 Digital Health Implementation & Monitoring  
 - 🧠 Behavior Change Communication (IEC/BCC)  
@@ -32,7 +26,6 @@ I care deeply about reducing health disparities and building digital bridges for
 - 🌐 Based in India
 
 ---
-
 > “Let’s code for care. Let’s debug inequity. Let’s humanize digital health.” 🌿💡
 
 
