@@ -15,7 +15,7 @@ I'm a public health and social development professional with experience working 
   
 
 📌 **Notable Work**
-- 📈 Created Performance Review Dashboards for Program Evaluation 
+- 📈 Created Performance Review Dashboards for Project Evaluation 
 - 📈 Achieved 85% follow-up rate in IHCI project with 20,000+ annual registrations via Simple App  
 - 🧑‍⚕️ Trained 400+ healthcare workers in using digital tools and solutions
 
